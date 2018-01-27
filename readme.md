@@ -1,2 +1,4 @@
 # addr-zip
-addr-zip project will help you to simplyfy Address
+This project will help you to use a short code instead of filling in whole address field.
+
+addr-zip project
